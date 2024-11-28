@@ -6,9 +6,6 @@
 ---
 
 ## বৈশিষ্ট্য:
-![Home Page](assets/01.png)
-![Home Page](assets/02.png)
-
 ### হেডার:
 - **নেভিগেশন বার**: "M.Mahadi" নাম এবং একটি রিজ্যুম ডাউনলোড বোতাম।
 - **ইন্ট্রোডাকশন সেকশন**: একজন প্রযুক্তিপ্রেমীর স্বপ্ন এবং বর্তমান অবস্থান।
@@ -28,7 +25,16 @@
 - একটি ফিডব্যাক ফর্ম যেখানে দর্শকরা তাদের মন্তব্য জমা দিতে পারে।
 
 ---
-
+## স্ক্রিনশট:
+![Home Page](assets/01.png)
+![Home Page](assets/02.png)
+![Home Page](assets/03.png)
+![Home Page](assets/04.png)
+![Home Page](assets/05.png)
+![Home Page](assets/06.png)
+![Home Page](assets/07.png)
+![Home Page](assets/09.png)
+---
 ## প্রযুক্তি
 - **HTML5**: ওয়েবপেজের স্ট্রাকচার।
 - **CSS3**: স্টাইলিং এবং ডিজাইন।
